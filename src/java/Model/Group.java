@@ -6,10 +6,7 @@ package Model;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class Group {
    private int groupId;
     private String groupCode;

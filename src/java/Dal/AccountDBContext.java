@@ -11,10 +11,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class AccountDBContext extends DBContext<Account>{
 
     public Account Login(String username, String password) {

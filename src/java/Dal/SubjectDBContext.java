@@ -12,10 +12,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class SubjectDBContext extends DBContext{
     public Subject getSubjectBySubjectId(int subjectId) {
         try {

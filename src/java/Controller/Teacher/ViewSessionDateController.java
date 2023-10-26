@@ -17,10 +17,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.util.ArrayList;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class ViewSessionDateController extends HttpServlet {
    
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)

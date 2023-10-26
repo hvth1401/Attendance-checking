@@ -4,10 +4,7 @@
  */
 package Model;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class Rooms {
     private int RoomId;
     private String RoomCode;

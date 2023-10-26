@@ -14,10 +14,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class AttendanceDBContext extends DBContext<Object> {
 
     public ArrayList<Attendance> getAllAttendanceBySubjectCode(int studentId, String subjectCode) {

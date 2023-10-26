@@ -13,10 +13,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class StudentDBContext extends DBContext<Student> {
 
     public Student getStudentById(int id) {

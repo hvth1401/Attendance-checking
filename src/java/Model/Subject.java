@@ -4,10 +4,7 @@
  */
 package Model;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class Subject {
     private int subjectId;
     private String subjectCode;

@@ -16,10 +16,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import java.util.ArrayList;
 
-/**
- *
- * @author Cuong Bui
- */
+
 @WebServlet(name="StudentListInGroupController", urlPatterns={"/StudentListInGroupController"})
 public class StudentListInGroupController extends HttpServlet {
    

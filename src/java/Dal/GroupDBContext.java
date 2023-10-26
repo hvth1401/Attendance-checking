@@ -14,10 +14,7 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class GroupDBContext extends DBContext<Group> {
 
     public int getGroupIdByStudentId(int studentId) {

@@ -6,10 +6,7 @@ package Model;
 
 import java.sql.Date;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class Course {
      private int TeachingScheduleId;
     private String subjectCode;

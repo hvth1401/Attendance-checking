@@ -4,10 +4,7 @@
  */
 package Model;
 
-/**
- *
- * @author Cuong Bui
- */
+
 public class Account {
     private int aid;
     private String userName;

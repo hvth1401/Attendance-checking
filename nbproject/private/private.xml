@@ -3,7 +3,35 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Course.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Student/ListSubjectStudyingController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Teacher/ViewSessionDateController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Account.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Attendance.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Group.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/CourseDBContext.java</file>
             <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Home.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Student/ViewListGroupController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Lecture.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/SubjectDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/AccountDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Student/ViewProfileController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Student/ViewAttendanceController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/DBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Teacher/ViewProfileTeacherController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/AttendanceDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Student.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/TeacherDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Rooms.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Subject.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/HomeTeacher.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/GroupDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Dal/StudentDBContext.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Teacher/TakeAttendance.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Student/StudentListInGroupController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/LoginController.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Model/Slot.java</file>
+            <file>file:/C:/Users/DELL/Documents/MyAssignment/src/java/Controller/Teacher/ViewGroupListTeachingController.java</file>
         </group>
     </open-files>
 </project-private>
